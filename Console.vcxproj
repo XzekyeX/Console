@@ -120,11 +120,13 @@
   <ItemGroup>
     <ClCompile Include="src\Cursor.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\Text.cpp" />
     <ClCompile Include="src\Vec2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Cursor.h" />
     <ClInclude Include="src\main.h" />
+    <ClInclude Include="src\Text.h" />
     <ClInclude Include="src\Vec2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
