@@ -12,7 +12,7 @@ Text::Text(string text, Color color, HANDLE handle) {
 
 string Text::getText() const {
 	return text;
-}
+} 
 
 Color Text::getColor() const {
 	return color;
