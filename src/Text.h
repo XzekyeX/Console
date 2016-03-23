@@ -5,10 +5,6 @@
 #include <iostream>
 using namespace std;
 
-#define println(str) cout << str << endl;
-
-#define print(str) cout << str;
-
 enum Color { DARKBLUE = 1, DARKGREEN, DARKTEAL, DARKRED, DARKPINK, DARKYELLOW, GRAY, DARKGRAY, BLUE, GREEN, TEAL, RED, PINK, YELLOW, WHITE };
 
 /**
