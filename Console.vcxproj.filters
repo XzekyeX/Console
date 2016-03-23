@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Cursor.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -27,11 +24,11 @@
     <ClCompile Include="src\Text.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\Console.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Cursor.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="src\main.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -39,6 +36,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Text.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Console.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
